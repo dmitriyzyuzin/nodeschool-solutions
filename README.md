@@ -1,6 +1,6 @@
 # nodeschool-solutions
 
-My walkthroughs of some nodeschool's workshops
+My walkthroughs of some nodeschool's [workshops](https://nodeschool.io/)
 
 * [learnyounode](https://github.com/workshopper/learnyounode)
 * [expressworks](https://github.com/azat-co/expressworks)
